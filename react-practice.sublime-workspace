@@ -1,0 +1,1710 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"M",
+				"Media"
+			],
+			[
+				"C",
+				"Col"
+			],
+			[
+				"B",
+				"Button"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"Card",
+				"CardDeck"
+			],
+			[
+				"Con",
+				"Container"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"R",
+				"Row"
+			],
+			[
+				"Co",
+				"Container"
+			],
+			[
+				"co",
+				"components/"
+			],
+			[
+				"g",
+				"glacier"
+			],
+			[
+				"H",
+				"Home"
+			],
+			[
+				"he",
+				"header.less"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"A",
+				"About"
+			],
+			[
+				"F",
+				"Footer"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"sma",
+				"smallElem"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"s",
+				"singup.html"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"c",
+				"center\talign-items"
+			],
+			[
+				"re",
+				"reviews.less"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"ge",
+				"getDay"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"b",
+				"break"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"p",
+				"passwordCheck"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ons",
+				"onsubmit\tAttr"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"onmo",
+				"onmousemove\tAttr"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"num",
+				"num_3"
+			],
+			[
+				"stage-c",
+				"stage-court.svg"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"ju",
+				"justify-content-end"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"j",
+				"justify-content-end"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"tet",
+				"text-decoration\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"li",
+				"list-style\tproperty"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"butt",
+				"button-price"
+			],
+			[
+				"trasf",
+				"transform\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"le",
+				"letter-content__body_left"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"la",
+				"layout-04"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"lay",
+				"layout-06"
+			],
+			[
+				"lau",
+				"layout-12"
+			],
+			[
+				"fs",
+				"font-size\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"ob",
+				"object-position\tproperty"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"sec",
+				"section-title"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"section",
+				"section-title"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"lin",
+				"letter-spacing\tproperty"
+			],
+			[
+				"inli",
+				"inline-flex\tdisplay"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"mt",
+				"margin-top\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 521,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 249,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/Header.js",
+			"settings":
+			{
+				"buffer_size": 1917,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/Home.js",
+			"settings":
+			{
+				"buffer_size": 2325,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					2,
+					"indent",
+					null,
+					"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"
+				],
+				[
+					10,
+					1,
+					"unindent",
+					null,
+					"AQAAAOkIAAAAAAAA6QgAAAAAAAABAAAACQ",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADtCAAAAAAAAO0IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAEQBAAAAAAAARQEAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAQAAAAAAAEQBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAAIGAAAAAAAAAwYAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACBgAAAAAAAAIGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAABEGAAAAAAAAEgYAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAARBgAAAAAAABEGAAAAAAAAAAAAAADAWEA"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAANMIAAAAAAAA1AgAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADTCAAAAAAAANMIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAABUJAAAAAAAAFgkAAAAAAAAAAAAAFgkAAAAAAAAXCQAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAVCQAAAAAAABUJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "Card"
+					},
+					"BAAAABcJAAAAAAAAGAkAAAAAAAAAAAAAGAkAAAAAAAAZCQAAAAAAAAAAAAAZCQAAAAAAABoJAAAAAAAAAAAAABoJAAAAAAAAGwkAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXCQAAAAAAABcJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					53,
+					1,
+					"insert_completion",
+					{
+						"completion": "CardDeck",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "CardDeck"
+					},
+					"AgAAABcJAAAAAAAAFwkAAAAAAAAEAAAAQ2FyZBcJAAAAAAAAHwkAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbCQAAAAAAABsJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					54,
+					8,
+					"left_delete",
+					null,
+					"CAAAAB4JAAAAAAAAHgkAAAAAAAABAAAAax0JAAAAAAAAHQkAAAAAAAABAAAAYxwJAAAAAAAAHAkAAAAAAAABAAAAZRsJAAAAAAAAGwkAAAAAAAABAAAARBoJAAAAAAAAGgkAAAAAAAABAAAAZBkJAAAAAAAAGQkAAAAAAAABAAAAchgJAAAAAAAAGAkAAAAAAAABAAAAYRcJAAAAAAAAFwkAAAAAAAABAAAAQw",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAfCQAAAAAAAB8JAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "M"
+					},
+					"AQAAABcJAAAAAAAAGAkAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXCQAAAAAAABcJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					56,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcJAAAAAAAAFwkAAAAAAAABAAAATQ",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAYCQAAAAAAABgJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "<Card"
+					},
+					"BQAAABcJAAAAAAAAGAkAAAAAAAAAAAAAGAkAAAAAAAAZCQAAAAAAAAAAAAAZCQAAAAAAABoJAAAAAAAAAAAAABoJAAAAAAAAGwkAAAAAAAAAAAAAGwkAAAAAAAAcCQAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAXCQAAAAAAABcJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAABwJAAAAAAAAHQkAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcCQAAAAAAABwJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					59,
+					1,
+					"left_delete",
+					null,
+					"AQAAABwJAAAAAAAAHAkAAAAAAAABAAAAPA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAdCQAAAAAAAB0JAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAABwJAAAAAAAAHQkAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcCQAAAAAAABwJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					61,
+					1,
+					"emmet_expand_abbreviation",
+					{
+						"tab": true
+					},
+					"AgAAABcJAAAAAAAAFwkAAAAAAAAGAAAAPENhcmQ+FwkAAAAAAAAkCQAAAAAAAAAAAAA",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAdCQAAAAAAAB0JAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					64,
+					1,
+					"left_delete",
+					null,
+					"AQAAABUJAAAAAAAAFQkAAAAAAAAPAAAACgo8Q2FyZD48L0NhcmQ+",
+					"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAkCQAAAAAAABUJAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "pages/About.js",
+			"settings":
+			{
+				"buffer_size": 3701,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/Contacts.js",
+			"redo_stack":
+			[
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJIAAAAAAAAAkgAAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJMAAAAAAAAAkwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJIAAAAAAAAAkwAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJIAAAAAAAAAkgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAJIAAAAAAAAAkgAAAAAAAAABAAAACQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJMAAAAAAAAAkwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					19,
+					1,
+					"indent",
+					null,
+					"DwAAAM0CAAAAAAAAzQIAAAAAAAABAAAACcQCAAAAAAAAxAIAAAAAAAABAAAACbMCAAAAAAAAswIAAAAAAAABAAAACZMCAAAAAAAAkwIAAAAAAAABAAAACXkCAAAAAAAAeQIAAAAAAAABAAAACWgCAAAAAAAAaAIAAAAAAAABAAAACUkCAAAAAAAASQIAAAAAAAABAAAACTICAAAAAAAAMgIAAAAAAAABAAAACRMCAAAAAAAAEwIAAAAAAAABAAAACfIBAAAAAAAA8gEAAAAAAAABAAAACacBAAAAAAAApwEAAAAAAAABAAAACWQBAAAAAAAAZAEAAAAAAAABAAAACSUBAAAAAAAAJQEAAAAAAAABAAAACewAAAAAAAAA7AAAAAAAAAABAAAACboAAAAAAAAAugAAAAAAAAABAAAACQ",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAANICAAAAAAAAvgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					14,
+					1,
+					"paste",
+					null,
+					"AQAAAJIAAAAAAAAAkgAAAAAAAABFAgAAY29uc3QgW2VtYWlsLCBzZXRFbWFpbF0gPSB1c2VTdGF0ZSgnJyk7CiAgIGNvbnN0IFtwYXNzd29yZCwgc2V0UGFzc3dvcmRdID0gdXNlU3RhdGUoJycpOwogICBjb25zdCBbZW1haWxEaXJ0eSwgc2V0RW1haWxEaXJ0eV0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgIGNvbnN0IFtwYXNzd29yZERpcnR5LCBzZXRQYXNzd29yZERpcnR5XSA9IHVzZVN0YXRlKGZhbHNlKTsKICAgY29uc3QgW2VtYWlsRXJyb3IsIHNldEVtYWlsRXJyb3JdID0gdXNlU3RhdGUoJ9CS0LLQtdC00LjRgtC1IGVtYWlsJyk7CiAgIGNvbnN0IFtwYXNzd29yZEVycm9yLCBzZXRQYXNzd29yZEVycm9yXSA9IHVzZVN0YXRlKCfQktCy0LXQtNC40YLQtSDQv9Cw0YDQvtC70YwnKTsKCiAgIGNvbnNyIGJsdXJIYW5kbGVyID0gKGUpID0+IHsKICAgICAgc3dpdGNoKGUudGFyZ2V0Lm5hbWUpIHsKICAgICAgICBjYXNlICdlbWFpbCc6CiAgICAgICAgICBzZXRFbWFpbERpcnR5KHRydWUpCiAgICAgICAgICBicmVhawogICAgICAgIGNhc2UgJ3Bhc3N3b3JkJzoKICAgICAgICBzZXRQYXNzd29yZERpcnR5KHRydWUpCiAgICAgICAgICBicmVhawogICAgICB9CiAgIH0",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAMMCAAAAAAAAwwIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					13,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAJAAAAAAAAAAkAAAAAAAAAACAAAACQmQAAAAAAAAAJEAAAAAAAAAAAAAAJIAAAAAAAAAkgAAAAAAAAABAAAACZEAAAAAAAAAkQAAAAAAAAABAAAACpAAAAAAAAAAkAAAAAAAAAABAAAACY8AAAAAAAAAjwAAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAJIAAAAAAAAAkgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					12,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAI4AAAAAAAAAjgAAAAAAAAACAAAAe30",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAI8AAAAAAAAAjwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAI0AAAAAAAAAjQAAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAI4AAAAAAAAAjgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					9,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAIsAAAAAAAAAiwAAAAAAAAACAAAAKCk",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIsAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIsAAAAAAAAAiwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIsAAAAAAAAAiwAAAAAAAAABAAAAIA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIwAAAAAAAAAjAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "tructor"
+					},
+					"BwAAAIoAAAAAAAAAigAAAAAAAAABAAAAcokAAAAAAAAAiQAAAAAAAAABAAAAb4gAAAAAAAAAiAAAAAAAAAABAAAAdIcAAAAAAAAAhwAAAAAAAAABAAAAY4YAAAAAAAAAhgAAAAAAAAABAAAAdYUAAAAAAAAAhQAAAAAAAAABAAAAcoQAAAAAAAAAhAAAAAAAAAABAAAAdA",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIsAAAAAAAAAiwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAIMAAAAAAAAAgwAAAAAAAAABAAAAcw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "con"
+					},
+					"AwAAAIIAAAAAAAAAggAAAAAAAAABAAAAboEAAAAAAAAAgQAAAAAAAAABAAAAb4AAAAAAAAAAgAAAAAAAAAABAAAAYw",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIMAAAAAAAAAgwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAH8AAAAAAAAAfwAAAAAAAAABAAAACX4AAAAAAAAAfgAAAAAAAAABAAAACg",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAAADwvw"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 992,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/Blog.js",
+			"settings":
+			{
+				"buffer_size": 11585,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/Slider.js",
+			"settings":
+			{
+				"buffer_size": 1239,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/style.less",
+			"settings":
+			{
+				"buffer_size": 109,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/common.less",
+			"settings":
+			{
+				"buffer_size": 3116,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/colors.less",
+			"settings":
+			{
+				"buffer_size": 1341,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/home.less",
+			"settings":
+			{
+				"buffer_size": 49,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/about.less",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/blog.less",
+			"settings":
+			{
+				"buffer_size": 116,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Lisa/Desktop/react-practice"
+	],
+	"file_history":
+	[
+		"/C/Users/Lisa/Desktop/react-practice/public/index.html",
+		"/C/Users/Lisa/Desktop/react-practice/src/less/about.less",
+		"/C/Users/Lisa/Desktop/myapp/src/footer/Footer.css",
+		"/C/Users/Lisa/Desktop/myapp/src/main/Main.css",
+		"/C/Users/Lisa/Desktop/myapp/src/header/Header.css",
+		"/C/Users/Lisa/Desktop/myapp/src/App.css",
+		"/C/Users/Lisa/Desktop/myapp/src/footer/Footer.js",
+		"/C/Users/Lisa/Desktop/myapp/src/main/Main.js",
+		"/C/Users/Lisa/Desktop/myapp/src/Nav.js",
+		"/C/Users/Lisa/Desktop/myapp/src/header/Header.js",
+		"/C/Users/Lisa/Desktop/myapp/src/About.js",
+		"/C/Users/Lisa/Desktop/myapp/src/Contacts.js",
+		"/C/Users/Lisa/Desktop/myapp/src/App.js",
+		"/C/Users/Lisa/Desktop/myapp/src/index.js",
+		"/C/Users/Lisa/Desktop/myapp/public/index.html",
+		"/C/Users/Lisa/Desktop/myapp/package.json",
+		"/C/Users/Lisa/Desktop/myapp/README.md",
+		"/C/Users/Lisa/Desktop/myapp/package-lock.json",
+		"/C/Users/Lisa/Desktop/myapp/.gitignore",
+		"/C/Users/Lisa/Desktop/myapp/src/index.css",
+		"/C/Users/Lisa/Desktop/myapp/src/App.test.js",
+		"/C/Users/Lisa/Desktop/my-app/src/footer/Footer.css",
+		"/C/Users/Lisa/Desktop/my-app/src/main/Main.css",
+		"/C/Users/Lisa/Desktop/my-app/src/header/Header.css",
+		"/C/Users/Lisa/Desktop/my-app/src/App.css",
+		"/C/Users/Lisa/Desktop/my-app/src/Footer.js",
+		"/C/Users/Lisa/Desktop/my-app/src/main/Main.js",
+		"/C/Users/Lisa/Desktop/my-app/src/header/Header.js",
+		"/C/Users/Lisa/Desktop/my-app/src/App.js",
+		"/C/Users/Lisa/Desktop/my-app/public/index.html",
+		"/C/Users/Lisa/Desktop/my-app/src/index.js",
+		"/C/Users/Lisa/Desktop/my-app/src/Header.css",
+		"/C/Users/Lisa/Desktop/my-app/src/Header.js",
+		"/C/Users/Lisa/Desktop/my-app/src/reportWebVitals.js",
+		"/C/Users/Lisa/Desktop/сайтик/js/signup.js",
+		"/C/Users/Lisa/Desktop/сайтик/js/accordeon.js",
+		"/C/Users/Lisa/Desktop/сайтик/less/mobile-footer.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/mobile-services.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/mobile-index.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/mobile-header.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/footer.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/contacts.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/sugnup.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/services.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/index.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/header.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/fonts.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/common.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/colors.less",
+		"/C/Users/Lisa/Desktop/сайтик/less/style.less",
+		"/C/Users/Lisa/Desktop/сайтик/style.css",
+		"/C/Users/Lisa/Desktop/сайтик/contacts.html",
+		"/C/Users/Lisa/Desktop/сайтик/singup.html",
+		"/C/Users/Lisa/Desktop/сайтик/services.html",
+		"/C/Users/Lisa/Desktop/сайтик/index.html",
+		"/C/Users/Lisa/Desktop/сайтик/swiper.js",
+		"/C/Users/Lisa/Desktop/сайтик/js.js",
+		"/C/Users/Lisa/Desktop/js/js.js",
+		"/C/Users/Lisa/Desktop/js/index.html",
+		"/C/Users/Lisa/Desktop/adv/less/footer.less",
+		"/C/Users/Lisa/Desktop/adv/less/practices.less",
+		"/C/Users/Lisa/Desktop/adv/less/services.less",
+		"/C/Users/Lisa/Desktop/adv/less/index.less",
+		"/C/Users/Lisa/Desktop/adv/less/header.less",
+		"/C/Users/Lisa/Desktop/adv/less/fonts.less",
+		"/C/Users/Lisa/Desktop/adv/less/colors.less",
+		"/C/Users/Lisa/Desktop/adv/less/common.less",
+		"/C/Users/Lisa/Desktop/adv/less/style.less",
+		"/C/Users/Lisa/Desktop/adv/style.css",
+		"/C/Users/Lisa/Desktop/adv/practices.html",
+		"/C/Users/Lisa/Desktop/adv/services.html",
+		"/C/Users/Lisa/Desktop/adv/index.html",
+		"/C/Users/Lisa/Desktop/sirius/php/footer.php",
+		"/C/Users/Lisa/Desktop/page-price.php",
+		"/C/Users/Lisa/Desktop/site/less/page-footer.less",
+		"/C/Users/Lisa/Desktop/site/less/index.less",
+		"/C/Users/Lisa/Desktop/site/less/page-header.less",
+		"/C/Users/Lisa/Desktop/site/less/common.less",
+		"/C/Users/Lisa/Desktop/site/less/colors.less",
+		"/C/Users/Lisa/Desktop/site/less/style.less",
+		"/C/Users/Lisa/Desktop/site/style.css",
+		"/C/Users/Lisa/Desktop/site/index.html",
+		"/C/Users/Lisa/Desktop/willberries/less/footer.less",
+		"/C/Users/Lisa/Desktop/willberries/less/main.less",
+		"/C/Users/Lisa/Desktop/willberries/less/header.less",
+		"/C/Users/Lisa/Desktop/willberries/less/colors.less",
+		"/C/Users/Lisa/Desktop/willberries/less/common.less",
+		"/C/Users/Lisa/Desktop/willberries/less/style.less",
+		"/C/Users/Lisa/Desktop/willberries/js/main-script.js",
+		"/C/Users/Lisa/Desktop/willberries/style.css",
+		"/C/Users/Lisa/Desktop/willberries/main.html",
+		"/C/Users/Lisa/Desktop/willberries/less/fonts.less",
+		"/C/Users/Lisa/Desktop/willberries/less/nav.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/footer.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/main.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/nav.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/header.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/common.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/fonts.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/colors.less",
+		"/C/Users/Lisa/Desktop/вилбериз/less/style.less",
+		"/C/Users/Lisa/Desktop/вилбериз/style.css",
+		"/C/Users/Lisa/Desktop/вилбериз/main.html",
+		"/C/Users/Lisa/Desktop/вилбериз/bootstrap/bootstrap-4.5.3-dist/css/bootstrap-grid.min.css",
+		"/C/Users/Lisa/Desktop/вилбериз/index.html",
+		"/C/Users/Lisa/Desktop/письма/less/letter.less",
+		"/C/Users/Lisa/Desktop/письма/less/common.less",
+		"/C/Users/Lisa/Desktop/письма/less/colors.less",
+		"/C/Users/Lisa/Desktop/письма/less/style.less",
+		"/C/Users/Lisa/Desktop/письма/style.css",
+		"/C/Users/Lisa/Desktop/письма/letter.html",
+		"/C/Users/Lisa/Desktop/письма/less/fonts.less",
+		"/C/Users/Lisa/Desktop/sirius/less/fonts.less",
+		"/C/Users/Lisa/Desktop/sirius/less/common.less",
+		"/C/Users/Lisa/Desktop/sirius/less/colors.less",
+		"/C/Users/Lisa/Desktop/sirius/less/style.less",
+		"/C/Users/Lisa/Desktop/письма/letter.sublime-project",
+		"/C/Users/Lisa/Desktop/письма/letter.css",
+		"/C/Users/Lisa/Desktop/sirius/less/footer.less",
+		"/C/Users/Lisa/Desktop/sirius/less/header.less",
+		"/C/Users/Lisa/Desktop/sirius/less/main.less",
+		"/C/Users/Lisa/Desktop/sirius/less/inner-page.less",
+		"/C/Users/Lisa/Desktop/sirius/less/nav.less",
+		"/C/Users/Lisa/Desktop/sirius/less/price.less",
+		"/C/Users/Lisa/Desktop/sirius/less/services.less",
+		"/C/Users/Lisa/Desktop/sirius/less/tabs.less",
+		"/C/Users/Lisa/Desktop/sirius/less/accordion.less",
+		"/C/Users/Lisa/Desktop/sirius/style.css"
+	],
+	"find":
+	{
+		"height": 27.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{\n",
+			"\";\n",
+			");\n",
+			"important",
+			"0",
+			";\n",
+			"blue",
+			"@blue",
+			"{\n",
+			"bottom"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/Header.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/Home.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2325,
+								2325
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 735.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/About.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								27
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pages/Contacts.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								964,
+								964
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?i)(?:\\b(?<![-#&$])(?:color|hsla?|lch|lab|hwb|rgba?)\\(|\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])#)",
+								"current_ext": ".js",
+								"current_syntax": "JSX/JSX",
+								"enabled": true,
+								"last_updated": 1624009704.33,
+								"scanning": "-comment -string"
+							},
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pages/Blog.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11197,
+								11197
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1251.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "components/Slider.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1057,
+								1057
+							]
+						],
+						"settings":
+						{
+							"color_helper.refresh": true,
+							"syntax": "Packages/JSX/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "less/style.less",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "less/common.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1743,
+								1743
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1304.8,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "less/colors.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "less/home.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "less/about.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "less/blog.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"color_helper.box_height": 18,
+							"color_helper.color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+							"color_helper.refresh": true,
+							"syntax": "Packages/LESS/Syntaxes/LESS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.69102118026,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "react-practice.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
